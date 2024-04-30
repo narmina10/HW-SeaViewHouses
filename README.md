@@ -1,3 +1,6 @@
+# SeaViewHouses
+
+
 This project defines a function  **findSeaViewHouses** that identifies houses that have a sea-view based on their heights, storing their indices in a vector:  <br>
 ```
 vector<int> findSeaViewHouses(const std::vector<int>& heights) {
